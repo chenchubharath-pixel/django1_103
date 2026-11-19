@@ -6,6 +6,6 @@ psycopg2-binary==2.9.11
 sqlparse==0.5.3
 tzdata==2025.2
 dj-database-url==3.0.1
-mysqlclient==2.2.7               # pip install mysqlclient
+mysqlclient==2.2.7                  # pip install mysqlclient
 whitenoise
 
